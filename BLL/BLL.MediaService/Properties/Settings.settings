@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BLL.MediaService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MediaSource" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\Admin\Documents\Development\WCF\DuraTrans\Media\source\</Value>
+    </Setting>
+    <Setting Name="MediaDestination" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\Admin\Documents\Development\WCF\DuraTrans\Media\destination\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
